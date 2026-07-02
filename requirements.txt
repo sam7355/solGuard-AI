@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+solana
+requests
+pandas
+numpy
+scikit-learn
+websockets
+python-dotenv
